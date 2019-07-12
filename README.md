@@ -1,2 +1,8 @@
 # ForTheGold
-王者荣耀冒险脚本，自动打钱，获取金币，轻轻松松到达每周上限 King glory adventure mode automatically get gold coins
+王者荣耀冒险脚本，自动打钱，获取金币，轻轻松松到达每周上限
+
+使用说明：
+1.下载本压缩包到本地
+2.连接手机和电脑，打开USB调式功能
+3.打开手机王者荣耀，调至冒险起始页面
+4.运行GetGoldAuto.py文件
